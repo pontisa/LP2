@@ -1,0 +1,12 @@
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe.config
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\bin\Debug\Pmetodos.pdb
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csprojAssemblyReference.cache
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.Form1.resources
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.Properties.Resources.resources
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.GenerateResource.cache
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.CoreCompileInputs.cache
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.exe
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.pdb
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio2.resources
+C:\Users\0030482321022\source\repos\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio3.resources

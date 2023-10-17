@@ -45,6 +45,7 @@
             this.btnInverter.TabIndex = 13;
             this.btnInverter.Text = "Inverter";
             this.btnInverter.UseVisualStyleBackColor = true;
+            this.btnInverter.Click += new System.EventHandler(this.BtnInverter_Click);
             // 
             // btnRemover2
             // 
@@ -54,6 +55,7 @@
             this.btnRemover2.TabIndex = 12;
             this.btnRemover2.Text = "Remover 2";
             this.btnRemover2.UseVisualStyleBackColor = true;
+            this.btnRemover2.Click += new System.EventHandler(this.BtnRemover2_Click);
             // 
             // btnRemover1
             // 

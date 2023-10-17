@@ -16,5 +16,43 @@ namespace Pmetodos
         {
             InitializeComponent();
         }
+
+        private void BtnContaNumeros_Click(object sender, EventArgs e)
+        {
+            int contador = 0;
+            foreach(var c in rchtxtFrase.Text)
+            {
+                if (char.IsNumber(c))
+                    contador += 1;
+            }
+            MessageBox.Show("nº de letras: " + contador);
+        }
+
+        private void BtnContaLetras_Click(object sender, EventArgs e)
+        {
+            int contador = 0;
+            for (var i = 0; i < rchtxtFrase.Text.Length; i++)
+            {
+                if (char.IsLetter(rchtxtFrase.Text[i]))
+                    contador += 1;
+            }
+            MessageBox.Show($"nº de caracteres: {contador}");
+        }
+
+        private void BtnPrimeiroBranco_Click(object sender, EventArgs e)
+        {
+            int posicao = 0;
+            int contador = 0;
+            while (contador < rchtxtFrase.Text.Length)
+            {
+                if (char.IsWhiteSpace(rchtxtFrase.Text[contador]))
+                {
+                    posicao = contador + 1;
+                    break;
+                }
+                contador++;
+            }
+            MessageBox.Show($"A posição do 1º espaço em branco é: {posicao}"); 
+        }
     }
 }
